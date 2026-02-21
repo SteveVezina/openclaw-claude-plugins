@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "openclaw-claude-plugins",
+  "owner": {
+    "name": "Steve Vezina"
+  },
+  "plugins": [
+    {
+      "name": "openclaw-agent-creator",
+      "description": "Scaffold new OpenClaw agents with guided config diffs and workspace files",
+      "version": "0.1.0",
+      "author": {
+        "name": "Steve Vezina"
+      },
+      "source": ".plugins/openclaw-agent-creator-plugin",
+      "category": "agent-development",
+      "strict": false
+    }
+  ]
+}

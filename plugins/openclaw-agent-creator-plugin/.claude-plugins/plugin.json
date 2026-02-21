@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-agent-creator",
+  "description": "Create and scaffold OpenClaw agents with guided configuration, workspace files, and config diffs",
+  "version": "1.0.0",
+  "author": {
+    "name": "OpenClaw Community"
+  },
+  "keywords": ["openclaw", "agent", "scaffold", "ai-agents"],
+  "homepage": "https://docs.openclaw.ai"
+}
