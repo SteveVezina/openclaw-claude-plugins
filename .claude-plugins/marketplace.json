@@ -12,7 +12,7 @@
       "author": {
         "name": "Steve Vezina"
       },
-      "source": ".plugins/openclaw-agent-creator-plugin",
+      "source": "./plugins/openclaw-agent-creator-plugin",
       "category": "agent-development",
       "strict": false
     }
